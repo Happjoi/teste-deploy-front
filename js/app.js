@@ -1,4 +1,4 @@
-const API_URL = 'https://teste-deploy-back-0cbo.onrender.com/api/complaints';
+const API_URL = 'https://teste-deploy-back-0cbo.onrender.com/api/complaints'; 
 
 document.getElementById('complaintForm').addEventListener('submit', async (e) => {
     e.preventDefault();
